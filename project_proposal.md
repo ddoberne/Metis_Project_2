@@ -1,6 +1,6 @@
 # Metis Project 2: Regression
 ## Background
-Major League Baseball (MLB) is a $66 billion industry, and is considered the premiere baseball league around the world. In order to complete a season, teams must account for roughly 4500 outs over 1500 innings. Pitchers are the players most responsible for recording these outs, and thus command a high salary. However, when a team signs a pitcher to a big contract there is no guarantee that the player will be able to live up to their workload responsibility due to injury or loss of effectiveness. This project will look at trends from a pitcher's previous performance to see what factors predict future performance.
+Major League Baseball (MLB) is a $66 billion industry, and is considered the premiere baseball league around the world. In order to complete a season, teams must account for roughly 4500 outs over 1500 innings. Pitchers are the players most responsible for recording these outs, and thus command a high salary. As an example, in 2021, the salary range for the top 100 paid pitchers in the league was from $2-$36 million with a median of $8 million. However, when a team signs a pitcher to a big contract there is no guarantee that the player will be able to live up to their workload responsibility due to injury or loss of effectiveness. This project will look at trends from a pitcher's previous performance to see what factors predict future performance.
 ## Data Description
 Sites used:
 * baseball-reference.com

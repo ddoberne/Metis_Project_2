@@ -5,8 +5,10 @@ Major League Baseball (MLB) is a $66 billion industry, and is considered the pre
 Sites used:
 * baseball-reference.com
 * baseballsavant.mlb.com
+
 Data Target:
 * Innings pitched (IP)
+
 Data Features:
 * ERA+
 * IP of previous season
